@@ -1,3 +1,3 @@
 # Test GIT 
-Description
+Description of Test
 Test Commit
